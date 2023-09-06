@@ -7,7 +7,7 @@ PyTorch implementation for RecSys 2023 paper.
  <img src="./RCL.png" alt="MMSSL" />
  </p> -->
 
-RCL is a new multi-behavior recommender system. It achieves better performance than existing SOTA multi-behavior recommenders.
+<!-- RCL is a new multi-behavior recommender system. It achieves better performance than existing SOTA multi-behavior recommenders.  -->
 
 
 
