@@ -1,11 +1,11 @@
-# MMSSL: Multi-Modal Self-Supervised Learning for Recommendation
+# RCL: Multi-Relational Contrastive Learning for Recommendation
 
 PyTorch implementation for RecSys 2023 paper. 
-% [Multi-Modal Self-Supervised Learning for Recommendation](https://arxiv.org/pdf/2302.10632.pdf).
+<!-- [Multi-Modal Self-Supervised Learning for Recommendation](https://arxiv.org/pdf/2302.10632.pdf). -->
 
-% <p align="center">
-% <img src="./RCL.png" alt="MMSSL" />
-% </p>
+<!-- <p align="center">
+ <img src="./RCL.png" alt="MMSSL" />
+ </p> -->
 
 RCL is a new multi-behavior recommender system. It achieves better performance than existing SOTA multi-behavior recommenders.
 
